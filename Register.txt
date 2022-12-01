@@ -1,7 +1,7 @@
 i am Creating a Registeration file
-userName :
-userPassword :
-Email:
-Address : 
-
+userName : Mani
+userPassword : Mani@123
+Email: vmkrmca@gmail.com
+Address : Bangalore
+PhoneNumber : +91 7022503201
 
